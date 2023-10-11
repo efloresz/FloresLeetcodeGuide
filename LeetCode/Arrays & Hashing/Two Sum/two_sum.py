@@ -21,8 +21,19 @@ Potential approache #1: pointers
 
 [2, 3, 6, 7, 5]
     ^     ^  -> [3, 7] = 10 (X)
+[2, 3, 6, 7, 5]
+ ^  ^        -> [2, 3] = 5 (X)
+ 
+[2, 3, 6, 7, 5]
+    ^  ^     -> [3, 6] = 9 (X)
+
+[2, 3, 6, 7, 5]
+       ^  ^  -> [6, 7] = 13 (X)
+[2, 3, 6, 7, 5]
+          ^  ^  -> [7, 5] = 12 (X)
 Limitations: 
 # odd num array: what number would 6 be compared to? (can not use element twice)
+# no two elements add to the target num 
 
 Potential approach #2: Hash map ? Hash table ? 
 TODO: explain logic and approach 
