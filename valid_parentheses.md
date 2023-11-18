@@ -1,6 +1,7 @@
 ``` Valid Parentheses ```
 
-![Screenshot 2023-11-18 at 5 14 27 PM](https://github.com/efloresz/FloresLeetcodeGuide/assets/110843762/e5ce89a1-728d-4b2e-8aa4-9209f5b63dd9)
+<img width="625" alt="Screenshot 2023-11-18 at 5 34 29 PM" src="https://github.com/efloresz/FloresLeetcodeGuide/assets/110843762/19e9b5d6-4213-4cc1-88fc-4dc3e8117a9e">
+
 
 ```python
 Solution:
