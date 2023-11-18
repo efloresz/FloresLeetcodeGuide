@@ -1,6 +1,6 @@
 ```Two Sum ```
 
-<img width="679" alt="Screenshot 2023-11-17 at 8 37 41 PM" src="https://github.com/efloresz/FloresLeetcodeGuide/assets/110843762/01418d93-25b2-4f45-8492-126869db4cd3">
+<img width="679" alt="Screenshot 2023-11-17 at 8 37 41 PM" src="https://github.com/efloresz/FloresLeetcodeGuide/assets/110843762/ef128757-588c-43ff-8bb0-f1e72873ad6b">
 
 ```python
 Solution
