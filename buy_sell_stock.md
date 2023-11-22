@@ -10,7 +10,7 @@ Solution:
 # buy day 1 for $3 -> sell day 2 for $1 = -2 profit
 # buy day 1 for $3 -> sell day 3 for $5 = +2 profit
 # additional approach binary search:
-# pick a day to buy & eliimate vals to left
+# pick a day to buy & eliminate vals to left
 # iterate array for all values to find max profit
 
 # refined approach:
